@@ -12,4 +12,5 @@ document.getElementsByClassName("class值");
 
 4、document.querySelector('选择器');
 
-5、document.querySelectorAll('选择器');
+5、document.querySelectorAll('选择器');来叫爸爸
+孙贼
