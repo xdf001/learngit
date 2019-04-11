@@ -15,3 +15,5 @@ document.getElementsByClassName("class值");
 5、document.querySelectorAll('选择器');来叫爸爸
 孙贼
 捂热三省武僧
+
+66
