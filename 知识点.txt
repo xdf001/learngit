@@ -1,0 +1,19 @@
+dom(document object model文档对象模型)操作
+一、获取节点
+1、根据标签名称获取dom节点集合
+document.getElementsByTagName("标签名")
+
+2、根据id属性值获取dom节点
+document.getElementById("id值");
+
+3、根据class属性值获取dom节点集合
+document.getElementsByClassName("class值");
+
+
+4、document.querySelector('选择器');
+
+5、document.querySelectorAll('选择器');来叫爸爸
+孙贼
+捂热三省武僧
+
+66
